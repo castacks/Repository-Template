@@ -1,6 +1,6 @@
 # New Repository
 
-[![pre-commit](https://github.com/Tom-Notch/Repository-Template/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/Tom-Notch/Repository-Template/actions/workflows/pre-commit.yml)
+[![pre-commit](https://github.com/castacks/Repository-Template/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/castacks/Repository-Template/actions/workflows/pre-commit.yml)
 
 ## Usage Guidelines
 
